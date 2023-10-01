@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sparsh7219
+- 👋 Hi, I’m Sparsh
 - 👀 I’m interested in nothing.
 - 🌱 I’m currently learning cs
 - 💞️ I’m looking to collaborate on blehh
